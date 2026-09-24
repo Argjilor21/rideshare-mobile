@@ -9,25 +9,25 @@ Studentët kanë problem udhëtimin për në AAB.
 [Udhëtim] Çfarë dëshiron shoferi?  Çfarë dëshiron udhëtari?
 Shoferi dëshiron të marrë udhëtarë për në AAB, kurse udhëtaret dëshirojnë të udhëtojnë me dikë që i përshtatet orarit.
 ## 3. Tri ekranet
-1. Lista e udhëtimeve: [PLOTËSO] Pristhinë - AAB
-2. Detajet e udhëtimit: [PLOTËSO] 2 vende të lira
-3. Kërkesa në pritje: [PLOTËSO] Prano Kërkesen
+1. Lista e udhëtimeve:  Pristhinë - AAB
+2. Detajet e udhëtimit:  2 vende të lira
+3. Kërkesa në pritje:  Prano Kërkesen
 
 ## 4. MVP — vetëm tri veçori
-[PLOTËSO] Cilat tri veprime duhet të funksionojnë në versionin e parë?
+ Cilat tri veprime duhet të funksionojnë në versionin e parë?
 Lista, Detajet , Kërkesa
 ## 5. Çfarë e lëmë për më vonë?
-[PLOTËSO] Shëno dy gjëra që nuk na duhen ende.
+ Shëno dy gjëra që nuk na duhen ende.
 Për më vonë e lëmë takimin në lokacionnin e caktuar
 ## 6. Si e provoj?
-[PLOTËSO] Çfarë duhet të ndodhë kur kërkoj një vend?
-[PLOTËSO] Çfarë ndodh nëse nuk ka vende të lira?
+ Çfarë duhet të ndodhë kur kërkoj një vend?
+Çfarë ndodh nëse nuk ka vende të lira?
 Duhet të presim që kërkesa të pranohet nga shoferi.
 Nuk pranohet kërkesa.
 ## 7. Prova me kolegun
-[PLOTËSO] Ku u hutua kolegu dhe çfarë ndryshova në skicë?
+ Ku u hutua kolegu dhe çfarë ndryshova në skicë?
 
 ## 8. Ndihma nga AI
-[PLOTËSO] Shëno çfarë ndihme more dhe çfarë kontrollove vetë, ose shkruaj: Nuk përdora AI.
+ Shëno çfarë ndihme more dhe çfarë kontrollove vetë, ose shkruaj: Nuk përdora AI.
 
-Hiqi shenjat e plotësimit pasi t'i zëvendësosh me përgjigjet e tua.
+
